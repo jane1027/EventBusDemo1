@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 78,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "D:\\ceshi\\EventBusDemo1\\app\\src\\main\\res\\values-large\\refs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 78,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    }
+]

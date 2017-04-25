@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Apr 25 10:56:05 CST 2017
+2.base=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_item_detail.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=8
+0.file=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_item_detail.xml
+5.base=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_item_list.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

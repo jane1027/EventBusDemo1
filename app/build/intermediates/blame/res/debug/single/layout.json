@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list.xml",
+        "source": "D:\\ceshi\\EventBusDemo1\\app\\src\\main\\res\\layout\\activity_item_list.xml"
+    },
+    {
+        "merged": "D:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ceshi\\EventBusDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_detail.xml",
+        "source": "D:\\ceshi\\EventBusDemo1\\app\\src\\main\\res\\layout\\activity_item_detail.xml"
+    },
+    {
+        "merged": "D:\\ceshi\\EventBusDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_detail.xml",
+        "source": "D:\\ceshi\\EventBusDemo1\\app\\src\\main\\res\\layout\\fragment_item_detail.xml"
+    }
+]
